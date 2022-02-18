@@ -2,17 +2,14 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/82691041/137208437-bdcd36bf-08be-441b-aa69-e110054ec08b.jpg" alt="blockchaindev0125">
 </div>
-<h4 align="center">�NFT marketplace</h4>
+<br>
+<h4 align="center">NFT marketplace</h4>
 <div align="center">
 <img src="https://github.com/blockchaindev0125/wanshai/blob/main/ezgif.com-gif-maker%20(1).gif" alt="blockchaindev0125">
 </div>
 <div align="center">
 <img src="https://github.com/blockchaindev0125/wanshai/blob/main/ezgif.com-gif-maker.gif" alt="blockchaindev0125">
 </div>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232087FF&size=40&center=true&vCenter=true&width=1000&lines=Where+hope+grows%2C+Miracles+blossom)](https://git.io/typing-svg)
-<hr>
 <br>
 
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
