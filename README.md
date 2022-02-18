@@ -5,9 +5,6 @@
 <br>
 <h4 align="center">NFT marketplace</h4>
 <div align="center">
-<img src="https://github.com/blockchaindev0125/wanshai/blob/main/ezgif.com-gif-maker%20(1).gif" alt="blockchaindev0125">
-</div>
-<div align="center">
 <img src="https://github.com/blockchaindev0125/wanshai/blob/main/ezgif.com-gif-maker.gif" alt="blockchaindev0125">
 </div>
 <br>
