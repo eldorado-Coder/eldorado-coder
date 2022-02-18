@@ -160,4 +160,3 @@ Blockchain and Full Stack developer with awesome web technical skills, hefty pro
 </p>
 <hr>
 </p>
-<hr>![Uploading image.png…]()
