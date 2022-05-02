@@ -8,7 +8,7 @@
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
 ```javascript
-const callEliteBy = (type) => {
+const callMeBy = (type) => {
 	switch(type) {
 		case: "Skype":
 			return "live:.cid.e857fd7c273b6183";
