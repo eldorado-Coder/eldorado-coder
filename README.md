@@ -7,8 +7,18 @@
 
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
-skype - live:.cid.e857fd7c273b6183
-gmail - blockchaindev0125@gmail.com
+```javascript
+const callEliteBy = (type) => {
+	switch(type) {
+		case: "Skype":
+			return "live:.cid.e857fd7c273b6183";
+		case: "gmail":
+			return "blockchaindev0125@gmail.com";
+		default:
+			break;
+	}
+}
+```
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <hr>
 <br>
@@ -68,9 +78,6 @@ gmail - blockchaindev0125@gmail.com
   </a>
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/>
