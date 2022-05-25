@@ -31,13 +31,11 @@ const callMeBy = (type) => {
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
 #### Blockchain and FullStack Development
-
+![]([https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a](https://img.shields.io/badge/Solidity-Language-green))
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
@@ -49,7 +47,7 @@ const callMeBy = (type) => {
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blockchaindev0125's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchaindev0125&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <br/>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Blockchaindev0125's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blockchaindev0125&custom_title=Elite's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Blockchaindev0125's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blockchaindev0125&custom_title=Blockchaindev0125's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
