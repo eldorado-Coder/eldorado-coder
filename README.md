@@ -19,8 +19,6 @@ const callMeBy = (type) => {
 	}
 }
 ```
-<h4 align="center">🔥 My Stacks 🔥</h4>
-<hr>
 <br>
 
 - 🥇 Blockchain Development: [Solidity](https://solidity.io/), [Rust](https://rust.org/)
