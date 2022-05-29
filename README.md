@@ -28,7 +28,7 @@ const callMeBy = (type) => {
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-<br/>
+
 ### Blockchain and FullStack Development
 
 ![](https://img.shields.io/badge/Language-Solidity-success?style=flat&logo=solidity&logoColor=white&color=3bac3a)
