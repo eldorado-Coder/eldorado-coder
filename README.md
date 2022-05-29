@@ -28,6 +28,7 @@ const callMeBy = (type) => {
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
+<br/>
 #### Blockchain and FullStack Development
 
 ![](https://img.shields.io/badge/Language-Solidity-success?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -49,8 +50,6 @@ const callMeBy = (type) => {
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Blockchaindev0125's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blockchaindev0125&custom_title=Blockchaindev0125's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
-
-<h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
 <hr>
 <br>
 <p align="center">
