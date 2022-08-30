@@ -41,11 +41,11 @@ const callMeBy = (type) => {
 ### Github Stats
 
 <br/>
-<a href="https://github.com/blockchaindev0125"><img alt="Blockchaindev0125's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blockchaindev0125&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/blockchaindev0125"><img alt="Blockchaindev0125's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchaindev0125&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/eldorado-coder"><img alt="eldorado-coder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eldorado-coder&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/eldorado-coder"><img alt="eldorado-coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldorado-coder&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <br/>
 <br/>
-<a href="https://github.com/blockchaindev0125"><img alt="Blockchaindev0125's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blockchaindev0125&custom_title=Blockchaindev0125's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/eldorado-coder"><img alt="eldorado-coder's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eldorado-coder&custom_title=eldorado-coder's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <hr>
