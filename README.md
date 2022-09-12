@@ -13,7 +13,7 @@ const callMeBy = (type) => {
 		case: "Skype":
 			return "live:.cid.e857fd7c273b6183";
 		case: "gmail":
-			return "blockchaindev0125@gmail.com";
+			return "mokhtamomin@gmail.com";
 		default:
 			break;
 	}
