@@ -12,8 +12,6 @@ const callMeBy = (type) => {
 	switch(type) {
 		case: "Skype":
 			return "live:.cid.e857fd7c273b6183";
-		case: "gmail":
-			return "mokhtamomin@gmail.com";
 		default:
 			break;
 	}
