@@ -11,7 +11,7 @@ Blockchain and Full Stack developer with awesome web technical skills, hefty pro
 const callMeBy = (type) => {
 	switch(type) {
 		case: "telegram":
-			return "@AngularNinja69";
+			return "@AngularNinja0125";
 		default:
 			break;
 	}
