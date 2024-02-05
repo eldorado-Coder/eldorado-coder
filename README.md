@@ -6,17 +6,6 @@
 <br>
 
 Blockchain and Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
-
-```javascript
-const callMeBy = (type) => {
-	switch(type) {
-		case: "telegram":
-			return "@AngularNinja0125";
-		default:
-			break;
-	}
-}
-```
 <br>
 
 - 🥇 Frontend Development:  [Angular](https://angular.io/) ( js, 2.0 - 13.0 ), [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/))
